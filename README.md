@@ -1,2 +1,2 @@
 # Predicting-the-spreading-of-infectious-diseases-using-the-SIR-model
-An SIR model for predicting the spread of an infectious disease
+This project was made as a part of my master's thesis. It is an expandable SIR (Susceptible - Infected - Recovered) model that can be used to predict the behaviour of an infectious disease. The model used is a deterministic mathematical model. It can be expanded or modified to fit the user's needs. It is excellent in predicting how certain epidemiological measures affect the spreading of a disease, and for studying past diseases and how they spread. The model is programmed using Python and plotted using Matplotlib in Google Colab.
